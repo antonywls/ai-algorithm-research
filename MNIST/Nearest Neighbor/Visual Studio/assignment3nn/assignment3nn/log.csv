@@ -1,0 +1,76 @@
+Config setup. Using 12 threads. Time taken: 35248
+Setup complete. Time taken: 0
+Processed 0/60000 images
+Processed 1000/60000 images
+Processed 2000/60000 images
+Processed 3000/60000 images
+Processed 4000/60000 images
+Processed 5000/60000 images
+Processed 6000/60000 images
+Processed 7000/60000 images
+Processed 8000/60000 images
+Processed 9000/60000 images
+Processed 10000/60000 images
+Processed 11000/60000 images
+Processed 12000/60000 images
+Processed 13000/60000 images
+Processed 14000/60000 images
+Processed 15000/60000 images
+Processed 16000/60000 images
+Processed 17000/60000 images
+Processed 18000/60000 images
+Processed 19000/60000 images
+Processed 20000/60000 images
+Processed 21000/60000 images
+Processed 22000/60000 images
+Processed 23000/60000 images
+Processed 24000/60000 images
+Processed 25000/60000 images
+Processed 26000/60000 images
+Processed 27000/60000 images
+Processed 28000/60000 images
+Processed 29000/60000 images
+Processed 30000/60000 images
+Processed 31000/60000 images
+Processed 32000/60000 images
+Processed 33000/60000 images
+Processed 34000/60000 images
+Processed 35000/60000 images
+Processed 36000/60000 images
+Processed 37000/60000 images
+Processed 38000/60000 images
+Processed 39000/60000 images
+Processed 40000/60000 images
+Processed 41000/60000 images
+Processed 42000/60000 images
+Processed 43000/60000 images
+Processed 44000/60000 images
+Processed 45000/60000 images
+Processed 46000/60000 images
+Processed 47000/60000 images
+Processed 48000/60000 images
+Processed 49000/60000 images
+Processed 50000/60000 images
+Processed 51000/60000 images
+Processed 52000/60000 images
+Processed 53000/60000 images
+Processed 54000/60000 images
+Processed 55000/60000 images
+Processed 56000/60000 images
+Processed 57000/60000 images
+Processed 58000/60000 images
+Processed 59000/60000 images
+Training images classified. Time taken: 2463501
+Training image classification f1-score: 1
+Processed 0/10000 images
+Processed 1000/10000 images
+Processed 2000/10000 images
+Processed 3000/10000 images
+Processed 4000/10000 images
+Processed 5000/10000 images
+Processed 6000/10000 images
+Processed 7000/10000 images
+Processed 8000/10000 images
+Processed 9000/10000 images
+Test images classified. Time taken: 524717
+Test image classification f1-score: 0.96889

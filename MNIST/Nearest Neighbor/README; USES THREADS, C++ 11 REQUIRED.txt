@@ -1,0 +1,1 @@
+The file assignment3nn.cpp uses threading and requires c++ 11 to compile. If there are issues with compilation, use the file in foler "if doesnt compile, use this".
